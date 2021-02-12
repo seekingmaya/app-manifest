@@ -6,7 +6,7 @@
 	"theme_color":"#ffffff",
 	"background_color":"#ffb347",
 	"display":"standalone",
-	"start_url": "https://www.seekingmaya.com/superrare/display",
+	"start_url": "https://www.seekingmaya.com/superrare/display/v1",
 	"icons": [
 		{
 			"src": "",
