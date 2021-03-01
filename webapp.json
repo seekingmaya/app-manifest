@@ -9,7 +9,7 @@
 	"start_url": "https://www.nicosan86.com/sr/display/v3",
 	"icons": [
 		{
-			"src": "",
+			"src": "https://uploads-ssl.webflow.com/img/favicon.ico",
 			"sizes": "32x32",
 			"type": "image/ico"
 		},
