@@ -9,17 +9,17 @@
 	"start_url": "https://www.nicosan86.com/sr/display/v3",
 	"icons": [
 		{
-			"src": "https://uploads-ssl.webflow.com/img/favicon.ico",
+			"src": "",
 			"sizes": "32x32",
 			"type": "image/ico"
 		},
 		{
-			"src": "",
+			"src": "https://uploads-ssl.webflow.com/5e5422d905f2a8351b5be3bc/603d2c5167ef48ef92a426c2_nnn.jpg",
 			"sizes": "192x192",
 			"type": "image/ico"
 		},
 		{
-			"src": "",
+			"src": "https://uploads-ssl.webflow.com/5e5422d905f2a8351b5be3bc/603d08c11061952f529b71bb_s.png",
 			"sizes": "256x256",
 			"type": "image/png"
 		}]
