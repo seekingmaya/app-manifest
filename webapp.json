@@ -6,7 +6,7 @@
 	"theme_color":"#ffffff",
 	"background_color":"#ffb347",
 	"display":"standalone",
-	"start_url": "https://www.nicofuture.com/meta-canvas",
+		"start_url": "https://www.nicofuture.com/sr/gallery-mode",
 	"icons": [
 		{
 			"src": "https://uploads-ssl.webflow.com/img/favicon.ico",
